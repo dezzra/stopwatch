@@ -3,7 +3,7 @@ Win by stopping the time on an even second.
 
 "Introduction to Interactive Programming in Python"
 
-Week 2 Mini-Project
+Week 3 Mini-Project
 
 http://www.codeskulptor.org/#user45_hBXbGRKWch_16.py
 
